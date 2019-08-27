@@ -1,8 +1,8 @@
 ## :notebook_with_decorative_cover:  TIL - Today I Learned
 
-### [1. Java](./Java)
+### 1. [Java](./Java)
 
-### [2. Database](./Database/190701)
+### 2.[Database](./Database/190701)
 
 ### 3. Web Programming
 
