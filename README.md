@@ -4,17 +4,19 @@
 
 ### 1. [Java](./Java)
 
-### 2. [Database](./Database/190701)
+### 2. [Python](./Python)
 
-### 3. Web Programming
+### 3. [Database](./Database/190701)
+
+### 4. Web Programming
 
 #### 	- [Web Client](./WebClient)
 
 #### 	- [Web Server](./WebServer)
 
-### 4. [Data Visualization](./DataVisualization)
+### 5. [Data Visualization](./DataVisualization)
 
-### 5. Big Data
+### 6. Big Data
 
 #### 	- [Linux](./Linux)
 
