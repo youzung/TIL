@@ -64,10 +64,7 @@ t.test(data=dustdata_anal, finedust ~ area, var.equal=T)
 installed.packages()
 
 library(twitteR)
-api_key <- "gjUkHgO8bFmNobRk4g0Jas8xb"
-api_secret <- "loF0mtnzLhtQDFjahdRHox6wcR1fiD6Fw95DP5QCSy3rLTTP1K"
-access_token <- "607145164-8L5HtzopZzhjuBCgusUGKE3MHOa9P4RbmhUrM0E1"
-access_token_secret <- "2wn2bsCA7JIH5DZ5Ss1deS5BNLabzaX2xSpM2ZLMIqwQf"
+
 setup_twitter_oauth(api_key,api_secret, access_token,access_token_secret)
 
 keyword <- enc2utf8("월드컵")
