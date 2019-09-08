@@ -1,6 +1,7 @@
-### Python basic
+### Python
 
 ---
 
-파이썬 기본 맛보기
+
+Python Basic
 
