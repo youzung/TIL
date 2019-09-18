@@ -1,4 +1,4 @@
-## :notebook_with_decorative_cover:  TIL - Today I Learned !
+## :notebook_with_decorative_cover:  TIL - Today I Learned
 
 ### 0. [Git](./Git)
 
